@@ -7,20 +7,6 @@ This project is a clone of the Netflix main page using HTML, CSS, and JavaScript
 - HTML
 - CSS
 - JavaScript
-
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/netflix-main-page-clone.git
-   
-## Contributing
-
-  - Fork the repository.
-  - Create a new branch.
-  - Make your changes.
-  - Push to your fork.
-  - Create a pull request.
    
 ## License
 
